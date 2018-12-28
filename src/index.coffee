@@ -1,6 +1,5 @@
 fs = require 'fs'
 
-
 module.exports = (api) ->
   api.configureWebpack ->
     additions =
@@ -10,7 +9,7 @@ module.exports = (api) ->
         rules: [
           {
             test: /\.coffee$/
-            loader: 'coffee-loader'
+            loader: 'babel-loader!coffee-loader'
           }
         ]
 
