@@ -1,7 +1,7 @@
 {
   "name": "vue-cli-plugin-coffeescript",
   "description": "CoffeeScript for use with @vue/cli 3.0",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "thisredoned@gmail.com",
   "repository": {
     "type": "git",
