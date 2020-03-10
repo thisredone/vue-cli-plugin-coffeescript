@@ -1,6 +1,6 @@
 ## vue-cli-plugin-coffeescript
 
-CoffeeScript 2.x Plugin for [vue-cli@3.0](https://github.com/vuejs/vue-cli)
+CoffeeScript 2.x Plugin for [vue-cli@>=3.0](https://github.com/vuejs/vue-cli)
 
 <br/>
 
